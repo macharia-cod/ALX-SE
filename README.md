@@ -1,3 +1,1 @@
-# ALX-SE.
-MY first repository on GitHub.
-I love :coffee: 
+My first readme
